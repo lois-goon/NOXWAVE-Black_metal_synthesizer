@@ -1,0 +1,4 @@
+build/
+renders/
+JUCE/
+*.mp3
